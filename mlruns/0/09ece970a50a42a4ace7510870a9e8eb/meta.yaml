@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09ece970a50a42a4ace7510870a9e8eb/artifacts
+end_time: 1757632243578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ece970a50a42a4ace7510870a9e8eb
+run_name: rogue-mule-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757632231119
+status: 3
+tags: []
+user_id: VulgoDK

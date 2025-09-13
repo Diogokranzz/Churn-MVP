@@ -1,0 +1,23 @@
+trace_id,score,description,grau_dificuldade,payload,class,timestamp
+e1b1c000-0000-0000-0000-000000000001,0.91,Solicitação de upgrade de plano,médio,"{'age': 37, 'plan': 'premium', 'usage': 132}",churn,2025-09-12T10:00:01Z
+e1b1c000-0000-0000-0000-000000000002,0.13,Reclamação de cobrança,crítico,"{'age': 22, 'plan': 'basic', 'usage': 39}",no_churn,2025-09-12T10:00:02Z
+e1b1c000-0000-0000-0000-000000000003,0.67,Consulta de saldo,fácil,"{'age': 45, 'plan': 'standard', 'usage': 77}",churn,2025-09-12T10:00:03Z
+e1b1c000-0000-0000-0000-000000000004,0.44,Alteração de endereço,médio,"{'age': 29, 'plan': 'premium', 'usage': 55}",no_churn,2025-09-12T10:00:04Z
+e1b1c000-0000-0000-0000-000000000005,0.78,Cancelamento de serviço,difícil,"{'age': 33, 'plan': 'standard', 'usage': 110}",churn,2025-09-12T10:00:05Z
+e1b1c000-0000-0000-0000-000000000006,0.22,Ativação de linha,fácil,"{'age': 26, 'plan': 'basic', 'usage': 41}",no_churn,2025-09-12T10:00:06Z
+e1b1c000-0000-0000-0000-000000000007,0.59,Recuperação de senha,médio,"{'age': 40, 'plan': 'premium', 'usage': 90}",churn,2025-09-12T10:00:07Z
+e1b1c000-0000-0000-0000-000000000008,0.36,Consulta de fatura,fácil,"{'age': 31, 'plan': 'standard', 'usage': 60}",no_churn,2025-09-12T10:00:08Z
+e1b1c000-0000-0000-0000-000000000009,0.81,Portabilidade de número,difícil,"{'age': 38, 'plan': 'premium', 'usage': 125}",churn,2025-09-12T10:00:09Z
+e1b1c000-0000-0000-0000-000000000010,0.19,Contratação de pacote adicional,médio,"{'age': 24, 'plan': 'basic', 'usage': 35}",no_churn,2025-09-12T10:00:10Z
+e1b1c000-0000-0000-0000-000000000011,0.54,Desbloqueio de aparelho,difícil,"{'age': 30, 'plan': 'standard', 'usage': 70}",churn,2025-09-12T10:00:11Z
+e1b1c000-0000-0000-0000-000000000012,0.27,Reemissão de chip,médio,"{'age': 28, 'plan': 'basic', 'usage': 44}",no_churn,2025-09-12T10:00:12Z
+e1b1c000-0000-0000-0000-000000000013,0.73,Contestação de uso,crítico,"{'age': 36, 'plan': 'premium', 'usage': 115}",churn,2025-09-12T10:00:13Z
+e1b1c000-0000-0000-0000-000000000014,0.33,Consulta de promoções,fácil,"{'age': 32, 'plan': 'standard', 'usage': 58}",no_churn,2025-09-12T10:00:14Z
+e1b1c000-0000-0000-0000-000000000015,0.88,Reativação de serviço,difícil,"{'age': 39, 'plan': 'premium', 'usage': 128}",churn,2025-09-12T10:00:15Z
+e1b1c000-0000-0000-0000-000000000016,0.15,Alteração de plano,médio,"{'age': 23, 'plan': 'basic', 'usage': 37}",no_churn,2025-09-12T10:00:16Z
+e1b1c000-0000-0000-0000-000000000017,0.50,Consulta de cobertura,fácil,"{'age': 34, 'plan': 'standard', 'usage': 65}",churn,2025-09-12T10:00:17Z
+e1b1c000-0000-0000-0000-000000000018,0.76,Solicitação de segunda via de fatura,médio,"{'age': 41, 'plan': 'premium', 'usage': 95}",no_churn,2025-09-12T10:00:18Z
+e1b1c000-0000-0000-0000-000000000019,0.29,Ativação de roaming internacional,difícil,"{'age': 27, 'plan': 'standard', 'usage': 50}",churn,2025-09-12T10:00:19Z
+e1b1c000-0000-0000-0000-000000000020,0.11,Consulta de pontos de fidelidade,fácil,"{'age': 21, 'plan': 'basic', 'usage': 30}",no_churn,2025-09-12T10:00:20Z
+e1b1c000-0000-0000-0000-000000000021,0.66,Configuração de e-mail,médio,"{'age': 35, 'plan': 'standard', 'usage': 72}",churn,2025-09-12T10:00:21Z
+e1b1c000-0000-0000-0000-000000000022,0.42,Atendimento técnico,fácil,"{'age': 30, 'plan': 'premium', 'usage': 80}",no_churn,2025-09-12T10:00:22Z

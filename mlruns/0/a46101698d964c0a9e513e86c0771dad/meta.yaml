@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a46101698d964c0a9e513e86c0771dad/artifacts
+end_time: 1757633014732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a46101698d964c0a9e513e86c0771dad
+run_name: auspicious-mink-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757633014194
+status: 3
+tags: []
+user_id: VulgoDK

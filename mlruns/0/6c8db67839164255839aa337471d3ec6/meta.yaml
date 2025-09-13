@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6c8db67839164255839aa337471d3ec6/artifacts
+end_time: 1757683572319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8db67839164255839aa337471d3ec6
+run_name: hilarious-skink-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757683572168
+status: 3
+tags: []
+user_id: VulgoDK

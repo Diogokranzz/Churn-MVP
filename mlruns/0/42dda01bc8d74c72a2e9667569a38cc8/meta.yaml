@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42dda01bc8d74c72a2e9667569a38cc8/artifacts
+end_time: 1757632384890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42dda01bc8d74c72a2e9667569a38cc8
+run_name: abrasive-crow-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757632384220
+status: 3
+tags: []
+user_id: VulgoDK

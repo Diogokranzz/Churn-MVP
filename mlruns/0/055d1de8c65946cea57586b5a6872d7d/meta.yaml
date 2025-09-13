@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/055d1de8c65946cea57586b5a6872d7d/artifacts
+end_time: 1757681996387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 055d1de8c65946cea57586b5a6872d7d
+run_name: exultant-rook-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757681996192
+status: 3
+tags: []
+user_id: VulgoDK

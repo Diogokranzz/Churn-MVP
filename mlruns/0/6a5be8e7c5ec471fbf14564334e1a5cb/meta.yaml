@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a5be8e7c5ec471fbf14564334e1a5cb/artifacts
+end_time: 1757632930915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a5be8e7c5ec471fbf14564334e1a5cb
+run_name: entertaining-rat-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757632930806
+status: 3
+tags: []
+user_id: VulgoDK
